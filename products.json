@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Black Shirt",
+        "price": 320,
+        "image": { "fields": { "file": { "url": "./images/black.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Purple Shirt",
+        "price": 320,
+        "image": { "fields": { "file": { "url": "./images/purple.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Maroon Shirt",
+        "price": 320,
+        "image": { "fields": { "file": { "url": "./images/maroon.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Indigo Shirt",
+        "price": 320,
+        "image": { "fields": { "file": { "url": "./images/indigo.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "White Shirt",
+        "price": 320,
+        "image": { "fields": { "file": { "url": "./images/white.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Green Lanyard",
+        "price": 70,
+        "image": {
+          "fields": { "file": { "url": "./images/green-lanyard.png" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Blue Lanyard",
+        "price": 70,
+        "image": {
+          "fields": { "file": { "url": "./images/blue-lanyard.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Violet Lanyard",
+        "price": 70,
+        "image": {
+          "fields": { "file": { "url": "./images/violet-lanyard.png" } }
+        }
+      }
+    }
+  ]
+}
